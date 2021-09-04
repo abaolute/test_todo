@@ -1,0 +1,41 @@
+div.center{
+  text-align:center
+
+}
+
+.radio {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.radio li {
+  list-style: none;
+  margin-right: 15px;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  background-color: whitesmoke;
+  padding: 5px 15px;
+}
+
+.wrap {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.divoneli {
+  margin-right: 50px;
+}
+
+.btntwo {
+  margin-right: 20px;
+}
+
+.none {
+  display: none;
+}
